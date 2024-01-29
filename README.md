@@ -6,7 +6,7 @@ I'm Chris!  Welcome.
 
 ## What is this music?
 
-It's GUNSHIP, and I'm obsessed!  They're kind enough to have made all their catalogue [Stream Safe](https://www.gunshipmusic.com/licensing] so you'll hear me playing this over and over.  Top Songs?
+It's GUNSHIP, and I'm obsessed!  They're kind enough to have made all their catalogue [Stream Safe](https://www.gunshipmusic.com/licensing) so you'll hear me playing this over and over.  Top Songs?
 
 1. [Empress of the Damned](https://open.spotify.com/track/782CrbHLN0II9es7ouv3r1?si=e0c41eae84174908)
 1. [Dark all Day](https://open.spotify.com/track/4GBJomKlZNRnODfpL299pw?si=523f3680a1f54198)
