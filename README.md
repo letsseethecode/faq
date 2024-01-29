@@ -2,7 +2,7 @@
 
 ## Who are you?
 
-I'm Chris!  Welcome.
+I'm Chris / [@nomad3k](https://github.com/nomad3k)!  Welcome.
 
 ## What is this music?
 
