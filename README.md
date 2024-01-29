@@ -27,6 +27,11 @@ Too many to count, but here's the headlines and my progression was like this:
 1. [Python](./python.md)
 1. [Rust](./rust.md)
 
+Notable inclusions are:
+
+1. [Terraform](./terraform.md)
+1. [AWS](./aws.md)
+
 ## What is your laptop?
 
 [16" Macbook Pro M1](./laptop.md)
